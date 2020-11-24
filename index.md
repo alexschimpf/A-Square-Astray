@@ -1,9 +1,18 @@
-## A Square Astray (iOS and Android game)
+# A Square Astray (iOS and Android game)
+
+## Installing Test Build
+
+#### Apple Users
+* https://testflight.apple.com/join/9ZWGddCV
+
+#### Android Users
+* https://play.google.com/store/apps/details?id=com.tendersaucer.asquareastray
+
+## Contact
 
 For support, email me at aschimpf1@gmail.com.
 
-
-**Privacy Policy**
+## Privacy Policy
 
 Alex Schimpf built the A Square Astray app as an Ad Supported app. This SERVICE is provided by Alex Schimpf at no cost and is intended for use as is.
 
