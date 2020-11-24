@@ -3,10 +3,10 @@
 ## Installing Test Build
 
 #### Apple Users
-* https://testflight.apple.com/join/9ZWGddCV
+* [https://testflight.apple.com/join/9ZWGddCV](https://testflight.apple.com/join/9ZWGddCV)
 
 #### Android Users
-* https://play.google.com/store/apps/details?id=com.tendersaucer.asquareastray
+* [https://play.google.com/store/apps/details?id=com.tendersaucer.asquareastray](https://play.google.com/store/apps/details?id=com.tendersaucer.asquareastray)
 
 ## Contact
 
