@@ -1,12 +1,6 @@
 # A Square Astray (iOS and Android game)
 
-## Installing Test Build
-
-#### Apple Users
-* [https://testflight.apple.com/join/9ZWGddCV](https://testflight.apple.com/join/9ZWGddCV)
-
-#### Android Users
-* [https://play.google.com/store/apps/details?id=com.tendersaucer.asquareastray](https://play.google.com/store/apps/details?id=com.tendersaucer.asquareastray)
+Watch the game trailer [here!](https://www.youtube.com/watch?v=N2-r2TNHG7A&ab_channel=Alex)
 
 ## Contact
 
